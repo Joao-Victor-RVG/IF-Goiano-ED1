@@ -35,4 +35,4 @@ This project is under the MIT license. see the file [LICENSE](.github/LICENSE.md
 
 [YouTube Channel](https://www.youtube.com/user/ifgoiano)
 
-
+# Esse repositório ficara privado até o termino da disciplina de Estrutura de Dados I 
