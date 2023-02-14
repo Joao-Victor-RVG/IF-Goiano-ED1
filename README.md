@@ -35,4 +35,12 @@ This project is under the MIT license. see the file [LICENSE](.github/LICENSE.md
 
 [YouTube Channel](https://www.youtube.com/user/ifgoiano)
 
-# Esse repositório ficara privado até o termino da disciplina de Estrutura de Dados I 
+<br>
+
+## :memo: Listas de Exercicios / Exercise list
+
+[Lista 01 / List 01](https://www.academia.edu/40204594/Algoritmos_Anita_Lopes_e_Guto_Garcia)
+
+<br>
+
+# Esse repositório ficara privado até o termino da disciplina de Estrutura de Dados I
