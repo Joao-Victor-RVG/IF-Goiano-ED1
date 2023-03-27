@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula 003/Aula 003.iml" filepath="$PROJECT_DIR$/Aula 003/Aula 003.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 01/Aula 01.iml" filepath="$PROJECT_DIR$/Aula 01/Aula 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Aula 02.iml" filepath="$PROJECT_DIR$/Aula 02/Aula 02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 002/Ex 161/Ex 161.iml" filepath="$PROJECT_DIR$/Exercises/Lista 002/Ex 161/Ex 161.iml" />
@@ -11,13 +12,21 @@
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 002/Ex 167/Ex 167.iml" filepath="$PROJECT_DIR$/Exercises/Lista 002/Ex 167/Ex 167.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 002/Ex 168/Ex 168.iml" filepath="$PROJECT_DIR$/Exercises/Lista 002/Ex 168/Ex 168.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 002/Ex 169/Ex 169.iml" filepath="$PROJECT_DIR$/Exercises/Lista 002/Ex 169/Ex 169.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 003/Ex 346/Ex 346.iml" filepath="$PROJECT_DIR$/Exercises/Lista 003/Ex 346/Ex 346.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 003/Ex 348/Ex 348.iml" filepath="$PROJECT_DIR$/Exercises/Lista 003/Ex 348/Ex 348.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 003/Ex 351/Ex 351.iml" filepath="$PROJECT_DIR$/Exercises/Lista 003/Ex 351/Ex 351.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 003/Ex 356/Ex 356.iml" filepath="$PROJECT_DIR$/Exercises/Lista 003/Ex 356/Ex 356.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 003/Ex 358/Ex 358.iml" filepath="$PROJECT_DIR$/Exercises/Lista 003/Ex 358/Ex 358.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 003/Ex 360/Ex 360.iml" filepath="$PROJECT_DIR$/Exercises/Lista 003/Ex 360/Ex 360.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Exemplo 01/Exemplo 01.iml" filepath="$PROJECT_DIR$/Aula 02/Exemplo 01/Exemplo 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Exemplo 02/Exemplo 02.iml" filepath="$PROJECT_DIR$/Aula 02/Exemplo 02/Exemplo 02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Exemplo 03/Exemplo 03.iml" filepath="$PROJECT_DIR$/Aula 02/Exemplo 03/Exemplo 03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 003/Fila/Fila.iml" filepath="$PROJECT_DIR$/Aula 003/Fila/Fila.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IF-Goiano-ED1.iml" filepath="$PROJECT_DIR$/.idea/IF-Goiano-ED1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 001/Lista 001.iml" filepath="$PROJECT_DIR$/Exercises/Lista 001/Lista 001.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 002/Lista 002.iml" filepath="$PROJECT_DIR$/Exercises/Lista 002/Lista 002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 003/Lista 003.iml" filepath="$PROJECT_DIR$/Exercises/Lista 003/Lista 003.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 001/ex 011/ex 011.iml" filepath="$PROJECT_DIR$/Exercises/Lista 001/ex 011/ex 011.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 001/ex 012/ex 012.iml" filepath="$PROJECT_DIR$/Exercises/Lista 001/ex 012/ex 012.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 001/ex 016/ex 016.iml" filepath="$PROJECT_DIR$/Exercises/Lista 001/ex 016/ex 016.iml" />
