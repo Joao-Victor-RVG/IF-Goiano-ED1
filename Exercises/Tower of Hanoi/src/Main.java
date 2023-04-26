@@ -20,17 +20,13 @@ public class Main {
 
     }
 
-    public static void moveDisk(String fromPole, String toPole){
-        //System.out.println("Movendo disco de "+fromPole+" para "+toPole);
-    }
 
     public static void moveTower(int height, String fromPole, String toPole, String withPole){
         if(height >= 1){
             moveTower(height - 1, fromPole, withPole, toPole);
-            moveDisk(fromPole, toPole);
             moveTower(height - 1, withPole, toPole, fromPole);
         }
-
         else return;
     }
 }
+
