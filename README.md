@@ -60,7 +60,7 @@ The goal of this discipline is to understand how to store and organize data effi
   
   * [Torre de Hanói / Tower Of Hanói](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Tower%20of%20Hanoi)
   
-  * [calculadora Polonesa / Polish Calculator](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Calculator)
+  * [Calculadora Polonesa / Polish Calculator](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Calculator)
   
   * [Problema de Josephus / Problem of Josephus](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Josephus%20Problem)
   
