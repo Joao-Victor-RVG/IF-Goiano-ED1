@@ -6,7 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/Aula 01/Aula 01.iml" filepath="$PROJECT_DIR$/Aula 01/Aula 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Aula 02.iml" filepath="$PROJECT_DIR$/Aula 02/Aula 02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Exercises/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Doubly Linked List e Circular List.iml" filepath="$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Doubly Linked List e Circular List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 005/Ex 001/Ex 001.iml" filepath="$PROJECT_DIR$/Exercises/Lista 005/Ex 001/Ex 001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 009/Ex 001 dynamic stack/Ex 001 dynamic stack.iml" filepath="$PROJECT_DIR$/Exercises/Lista 009/Ex 001 dynamic stack/Ex 001 dynamic stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 009/Ex 002 dynamic stack/Ex 002 dynamic stack.iml" filepath="$PROJECT_DIR$/Exercises/Lista 009/Ex 002 dynamic stack/Ex 002 dynamic stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 007/Ex 01/Ex 01.iml" filepath="$PROJECT_DIR$/Exercises/Lista 007/Ex 01/Ex 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 007/Ex 02/Ex 02.iml" filepath="$PROJECT_DIR$/Exercises/Lista 007/Ex 02/Ex 02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 007/Ex 03/Ex 03.iml" filepath="$PROJECT_DIR$/Exercises/Lista 007/Ex 03/Ex 03.iml" />
@@ -48,6 +51,11 @@
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 004/Ex 495/Ex 495.iml" filepath="$PROJECT_DIR$/Exercises/Lista 004/Ex 495/Ex 495.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 004/Ex 497/Ex 497.iml" filepath="$PROJECT_DIR$/Exercises/Lista 004/Ex 497/Ex 497.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 004/Ex 499/Ex 499.iml" filepath="$PROJECT_DIR$/Exercises/Lista 004/Ex 499/Ex 499.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex001/Ex001.iml" filepath="$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex001/Ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex002/Ex002.iml" filepath="$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex002/Ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex003/Ex003.iml" filepath="$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex003/Ex003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex004/Ex004.iml" filepath="$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex004/Ex004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex005/Ex005.iml" filepath="$PROJECT_DIR$/Exercises/Lista 008/Doubly Linked List e Circular List/Ex005/Ex005.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Exemplo 01/Exemplo 01.iml" filepath="$PROJECT_DIR$/Aula 02/Exemplo 01/Exemplo 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Exemplo 02/Exemplo 02.iml" filepath="$PROJECT_DIR$/Aula 02/Exemplo 02/Exemplo 02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 02/Exemplo 03/Exemplo 03.iml" filepath="$PROJECT_DIR$/Aula 02/Exemplo 03/Exemplo 03.iml" />
@@ -70,6 +78,8 @@
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 005/Lista 005.iml" filepath="$PROJECT_DIR$/Exercises/Lista 005/Lista 005.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 006/Lista 006.iml" filepath="$PROJECT_DIR$/Exercises/Lista 006/Lista 006.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 007/Lista 007.iml" filepath="$PROJECT_DIR$/Exercises/Lista 007/Lista 007.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 008/Lista 008.iml" filepath="$PROJECT_DIR$/Exercises/Lista 008/Lista 008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercises/Lista 009/Lista 009.iml" filepath="$PROJECT_DIR$/Exercises/Lista 009/Lista 009.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Simpsons/Lista Duplamente Encadeada/Lista Duplamente Encadeada.iml" filepath="$PROJECT_DIR$/Exercises/Simpsons/Lista Duplamente Encadeada/Lista Duplamente Encadeada.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Simpsons/Simpsons.iml" filepath="$PROJECT_DIR$/Exercises/Simpsons/Simpsons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercises/Tower of Hanoi/Tower of Hanoi.iml" filepath="$PROJECT_DIR$/Exercises/Tower of Hanoi/Tower of Hanoi.iml" />
