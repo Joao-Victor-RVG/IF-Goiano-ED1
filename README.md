@@ -58,6 +58,8 @@ The goal of this discipline is to understand how to store and organize data effi
 
   * [Lista / List 009](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20009)
 
+  * [Lista / List 010](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20010)
+
  
 
 ### Trabalhos Acadêmico / Academic Works
