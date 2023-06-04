@@ -32,6 +32,7 @@ The goal of this discipline is to understand how to store and organize data effi
 ## Tecnologias / Technologies
 
 * [Java](https://www.java.com/pt-BR/)
+* [Python](https://www.python.org/)
 
 
 <br>
@@ -40,37 +41,44 @@ The goal of this discipline is to understand how to store and organize data effi
 
 :closed_book: [Livro / Book](https://www.academia.edu/40204594/Algoritmos_Anita_Lopes_e_Guto_Garcia)
   
-  * [Lista / List 001](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20001)
+  * [Lista / List 001](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20001)
   
-  * [Lista / List 002](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20002)
+  * [Lista / List 002](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20002)
   
-  * [Lista / List 003](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20003)
+  * [Lista / List 003](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20003)
   
-  * [Lista / List 004](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20004)
+  * [Lista / List 004](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20004)
   
-  * [Lista / List 005](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20005)
+  * [Lista / List 005](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20005)
   
-  * [Lista / List 006](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20006)
+  * [Lista / List 006](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20006)
   
-  * [Lista / List 007](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20007)
+  * [Lista / List 007](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20007)
 
-  * [Lista / List 008](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20008)
+  * [Lista / List 008](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20008)
 
-  * [Lista / List 009](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20009)
+  * [Lista / List 009](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20009)
 
-  * [Lista / List 010](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lista%20010)
+  * [Lista / List 010](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Lists/Lista%20010)
 
  
 
-### Trabalhos Acadêmico / Academic Works
+### Trabalhos Acadêmico Videos/ Academic Works Videos
   
-  * [Torre de Hanói / Tower Of Hanói](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Tower%20of%20Hanoi)
+  * [Torre de Hanói / Tower Of Hanói](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Videos/Tower%20of%20Hanoi)
   
-  * [Calculadora Polonesa / Polish Calculator](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Calculator)
+  * [Calculadora Polonesa / Polish Calculator](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Videos/Calculator)
+
+  * [Atividade 01 Gerador de Números / Activity 01 Number Generator](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Videos/Video%2003)
+
+  * [Atividade 02 Mega Sena / Activity 02 Mega Millions](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Videos/Video%2004)
+
+
+### Exercicios Bonus / Bonus Exercises 
   
-  * [Problema de Josephus / Problem of Josephus](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Josephus%20Problem)
+  * [Problema de Josephus / Problem of Josephus](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Bonus%20Exercises/Josephus%20Problem)
   
-  * [Lista Duplamente Encadeada / doubly linked list (Simpsons)](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Simpsons)
+  * [Lista Duplamente Encadeada / doubly linked list (Simpsons)](https://github.com/Joao-Victor-RVG/IF-Goiano-ED1/tree/main/Exercises/Bonus%20Exercises/Simpsons)
 
 
 <br>
