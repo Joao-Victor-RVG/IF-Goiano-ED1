@@ -75,13 +75,14 @@ The goal of this discipline is to understand how to store and organize data effi
 
 ## Link dos Videos do Youtube / Link to YouTube Videos
 
-    * [Torre de Hanói / Tower Of Hanói](https://youtu.be/bV1eudxegwA)
+   
+  * [Torre de Hanói / Tower Of Hanói](https://youtu.be/bV1eudxegwA)
+  
+  * [Calculadora Polonesa / Polish Calculator](https://youtu.be/_1UiHQkaIpY)
 
-    * [Calculadora Polonesa / Polish Calculator](https://youtu.be/_1UiHQkaIpY)
+  * [Atividade 01 Gerador de Números / Activity 01 Number Generator](https://youtu.be/z5bIhUJMC7Y)
 
-    * [Atividade 01 Gerador de Números / Activity 01 Number Generator](https://youtu.be/z5bIhUJMC7Y)
-
-    * [Atividade 02 Mega Sena / Activity 02 Mega Millions](https://youtu.be/5vVcMEwxdJs)
+  * [Atividade 02 Mega Sena / Activity 02 Mega Millions](https://youtu.be/5vVcMEwxdJs)
 
 
 ### Exercicios Bonus / Bonus Exercises 
