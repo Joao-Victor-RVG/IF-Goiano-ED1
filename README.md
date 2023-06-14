@@ -105,4 +105,3 @@ The goal of this discipline is to understand how to store and organize data effi
 
 [YouTube Channel](https://www.youtube.com/user/ifgoiano)
 
-# Esse repositório ficara privado até o termino da disciplina de Estrutura de Dados I
